@@ -1,6 +1,6 @@
 export enum Departamento {
-    IT,
-    HR,
-    Sales,
-    Finance
+    IT = "IT",
+    HR = "HR",
+    Sales = "Sales",
+    Finance = "Finance"
 }
